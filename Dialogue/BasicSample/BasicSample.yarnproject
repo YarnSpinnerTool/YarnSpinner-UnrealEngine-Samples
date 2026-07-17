@@ -1,0 +1,21 @@
+{
+  "projectFileVersion": 4,
+  "sourceFiles": [
+    "**/*.yarn"
+  ],
+  "baseLanguage": "en",
+  "editorOptions": {
+    "yarnScriptEditor": {
+      "characters": [
+        {
+          "name": "Orange",
+          "colour": "#f58505"
+        },
+        {
+          "name": "Player",
+          "colour": "#0088c2"
+        }
+      ]
+    }
+  }
+}
